@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @imssp
-- 👀 I’m interested in everything and a little bit of coding.
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps
+- 👋 Hi, I’m Satya
+- 👀 I am a Devops Engineer.
+- 🌱 I hold interest in building scalable and relaible infrastructures.
+- 💞️ I’m looking to collaborate on DevOps.
 - 📫 How to reach me: mail: satyasouravssp0@gmail.com
 
 <!---
