@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Satya
 - 👀 I am a Devops Engineer.
-- 🌱 I hold interest in building scalable and relaible infrastructures.
-- 💞️ I’m looking to collaborate on DevOps.
-- 📫 How to reach me: mail: satyasouravssp0@gmail.com
+- 🌱 I love coding and building things.
+- 📫 Feel free to reach me: mail: satyasouravssp0@gmail.com
 
 <!---
 imssp/imssp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
