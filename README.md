@@ -46,7 +46,7 @@ I specialize in **LLM-powered pipelines**, **event-driven automation**, and **co
 
 ---
 
-### 📊 GitHub Stats (Live)
+<!--### 📊 GitHub Stats (Live)
 
 > These stats are generated directly from GitHub and reflect my real activity.
 
@@ -63,7 +63,7 @@ I specialize in **LLM-powered pipelines**, **event-driven automation**, and **co
 </div>
 
 ---
-
+-->
 ### 🤝 Open To
 
 - AIOps & AI Infrastructure projects  
