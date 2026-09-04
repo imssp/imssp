@@ -3,48 +3,115 @@
 <h2 align="center">Satya Sourav Patel</h2>
 
 <h4 align="center">
-AIOps Engineer · DevOps → AI Automation · Cloud & LLM Infrastructure
+Software Engineer · DevOps Engineer · Cloud-Native Systems · Automation
 </h4>
 
 <!-- <div align="center">
-  <img src="assets/banner.gif" alt="AIOps Banner" />
+  <img src="assets/banner.gif" alt="Software & DevOps Engineering Banner" />
 </div> -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%" height="2"/>
 
 ### 👋 About Me
 
-I transitioned from **DevOps engineering** into **AIOps and AI automation**, where I design and operate **cloud-native, production-ready AI systems**. My work sits at the intersection of **infrastructure, automation, and applied AI** — turning manual ops into intelligent workflows.
+I am a **Software Engineer and DevOps Engineer** focused on building, deploying, and operating reliable **cloud-native applications and distributed systems**.
 
-I specialize in **LLM-powered pipelines**, **event-driven automation**, and **cost-aware AI deployments**, with a strong focus on reliability, observability, and scalability in real-world environments.
+My work spans both **backend software engineering and platform engineering** — developing APIs and services using **Java, Spring Boot, Python, and relational databases**, while also designing the infrastructure, CI/CD pipelines, Kubernetes environments, and observability systems required to run them reliably in production.
+
+I enjoy working across the complete software lifecycle: **designing APIs, writing backend services, containerizing applications, automating deployments, provisioning cloud infrastructure, monitoring production systems, and troubleshooting distributed applications**.
+
+My current focus is becoming a stronger end-to-end engineer capable of taking a product from **code → infrastructure → deployment → production**.
 
 ---
 
 ### 🚀 What I Work On
 
-- AIOps pipelines & AI-driven automation  
-- Production **LLM systems** (model selection, cost & latency tradeoffs)  
-- Workflow automation using **n8n**, APIs, and webhooks  
-- Cloud infrastructure on **AWS & GCP**  
-- **CI/CD for AI workloads** (GitHub Actions, GitLab)  
-- Containerized services with **Docker & Kubernetes**  
-- Infrastructure as Code using **Terraform**  
-- Monitoring & observability for AI-enabled systems  
+* Backend development using **Java 17, Spring Boot & REST APIs**
+* Microservices and cloud-native application architecture
+* **Spring Data JPA, Hibernate, PostgreSQL & MySQL**
+* Unit and integration testing using **JUnit & Mockito**
+* Application builds and dependency management using **Maven**
+* Cloud infrastructure on **AWS & Azure**
+* **Docker & Kubernetes** based application platforms
+* CI/CD pipelines using **GitHub Actions, GitLab CI/CD & Jenkins**
+* GitOps deployments using **Argo CD**
+* Infrastructure as Code using **Terraform & Ansible**
+* Monitoring and observability using **Prometheus, Grafana & CloudWatch**
+* DevSecOps, automation, and production reliability
+* Python and Bash automation for cloud and operational workflows
 
 ---
 
 ### 🧰 Tech Stack
 
-🤖 AIOps · AI Automation · LLMs
-<p align="left"> <!-- n8n --> <img src="https://cdn.simpleicons.org/n8n/FF6D00" width="48" height="48" title="n8n" /> <!-- WordPress --> <img src="https://cdn.simpleicons.org/wordpress/21759B" width="48" height="48" title="WordPress Automation" /> <!-- OpenAI --> <!-- Ollama --> <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" title="Ollama (Local LLMs)" /> </p>
-☁️ Cloud · DevOps · Infrastructure
-<p align="left"> <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,linux,terraform,ansible,nginx&perline=8" /> </p>
-⚙️ Automation · CI/CD · Tooling
-<p align="left"> <img src="https://skillicons.dev/icons?i=github,githubactions,git,python,bash,yaml&perline=6" /> </p>
-🔍 Observability · Reliability
-<p align="left"> <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=6" /> </p>
+#### 💻 Software Engineering · Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,python,postgres,mysql,redis&perline=7" />
+</p>
+
+**Java 11/17 · Spring Boot · Spring Web/MVC · Spring Data JPA · Hibernate · REST APIs · JUnit · Mockito · Maven**
 
 ---
+
+#### ☁️ Cloud · DevOps · Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,linux,terraform,ansible,nginx&perline=8" />
+</p>
+
+**AWS · Azure · Kubernetes · Docker · Terraform · Ansible · Helm · Linux · Networking**
+
+---
+
+#### ⚙️ CI/CD · GitOps · Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,githubactions,git,gitlab,jenkins,python,bash&perline=7" />
+</p>
+
+**GitHub Actions · GitLab CI/CD · Jenkins · Azure DevOps · Argo CD · Git · Bash · Python Automation**
+
+---
+
+#### 🔍 Observability · Reliability
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=6" />
+</p>
+
+**Prometheus · Grafana · AWS CloudWatch · Datadog · Azure Monitor · OpenTelemetry**
+
+---
+
+#### 🔐 DevSecOps · Security
+
+**SonarQube · Trivy · OWASP ZAP · AWS IAM · Kubernetes RBAC · Network Policies · Secrets Management**
+
+---
+
+### 🏗️ Areas I'm Exploring
+
+* Distributed systems & system design
+* Production-grade Java microservices
+* Event-driven architectures
+* High-scale backend systems
+* AWS application architecture
+* Platform engineering
+* Kubernetes internals
+* Observability & distributed tracing
+* AI-assisted software and DevOps engineering
+
+---
+
+### 🎯 Current Focus
+
+Building projects that combine **software engineering + cloud + DevOps** to understand how real-world systems are designed and operated end-to-end.
+
+> **Build the application. Build the platform. Automate the delivery. Operate it reliably.**
+
+---
+
 
 <!--### 📊 GitHub Stats (Live)
 
